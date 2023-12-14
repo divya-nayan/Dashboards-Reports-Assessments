@@ -1,6 +1,6 @@
 # IPL 2008-2022 Analysis Dashboard
 
-### Dashboard Link : https://www.novypro.com/project/ipl-2008-2022-analysis
+### Dashboard Link : https://www.novypro.com/project/ipl-2008-2022-analysis-1
 
 ## Problem Statement
 
